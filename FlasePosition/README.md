@@ -12,3 +12,4 @@ The first three required inputs\
 The two optional inputs\
 -es    || The approximate error desired (Default is 0.0001%)\
 -maxit || The maximum number of itterations (Default is 200)\
+Example || FalsePosition(x^2-x-4,-5,5,0.01,20)
