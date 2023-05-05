@@ -4,4 +4,5 @@ LU Decomposition is a way to solve a system of linear equations by breaking it u
 % outputs:\
 %	L = lower triangular matrix\
 %	U = upper triangular matrix\
-%   P = the permutation matrix
+%   P = the permutation matrix\
+Example || [L,U,P] = LUFactor(A)
