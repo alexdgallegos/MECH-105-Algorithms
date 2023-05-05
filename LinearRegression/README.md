@@ -10,4 +10,6 @@
 %     2. fY: y-values with outliers removed\
 %     3. slope: slope from the linear regression y=mx+b\
 %     4. intercept: intercept from the linear regression y=mx+b\
-%     5. Rsquared: R^2, a.k.a. coefficient of determination
+%     5. Rsquared: R^2, a.k.a. coefficient of determination\
+\
+Example || [fX, fY, slope, intercept, Rsquared] = linearRegression(x,y)
